@@ -1,0 +1,22 @@
+- git: {local-name: v4r_libraries, uri: 'git@github.com:CURG/v4r_libraries.git', version: master}
+- git: {local-name: checkerboard_detection, uri: 'git@github.com:CURG/checkerboard_detection.git',
+    version: master}
+- git: {local-name: graspit_moveit_plugin, uri: 'git@github.com:CURG/graspit_moveit_plugin',
+    version: master}
+- git: {local-name: graspit_msgs, uri: 'git@github.com:CURG-BCI/graspit_msgs.git',
+    version: master}
+- git: {local-name: graspit-ros, uri: 'git@github.com:graspit-simulator/graspit-ros.git',
+    version: master}
+- git: {local-name: graspit_shape_completion, uri: 'https://github.com/ShapeCompletion3D/graspit_shape_completion.git',
+    version: master}
+- git: {local-name: graspit_tactile_experience_plugin, uri: 'git@github.com:jaredweiss/graspit_tactile_simulation_plugin.git',
+    version: master}
+- git: {local-name: mesh_builder, uri: 'git@github.com:ShapeCompletion3D/mesh_builder.git',
+    version: master}
+- git: {local-name: model_rec2, uri: 'git@github.com:CURG/model_rec2.git', version: master}
+- git: {local-name: moveit_trajectory_planner, uri: 'git@github.com:CURG/moveit_trajectory_planner.git',
+    version: execution_pipeline}
+- git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git', version: master}
+- git: {local-name: pc_filter, uri: 'git@github.com:CURG/pc_filter.git', version: master}
+- git: {local-name: runtime_launch, uri: 'https://github.com/ShapeCompletion3D/runtime_launch.git',
+    version: master}
