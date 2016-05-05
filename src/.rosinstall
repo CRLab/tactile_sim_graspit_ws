@@ -1,8 +1,4 @@
 - git:
-    local-name: checkerboard_detection
-    uri: git@github.com:CURG/checkerboard_detection.git
-    version: master
-- git:
     local-name: graspit-ros
     uri: git@github.com:graspit-simulator/graspit-ros.git
     version: master
@@ -56,8 +52,4 @@
 - git:
     local-name: runtime_launch
     uri: https://github.com/ShapeCompletion3D/runtime_launch.git
-    version: master
-- git:
-    local-name: v4r_libraries
-    uri: git@github.com:CURG/v4r_libraries.git
     version: master
